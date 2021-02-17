@@ -1,0 +1,12 @@
+Source: mxfb-pi
+Section: fluxbox
+Priority: extra
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mxfb-pi
+Architecture: all
+Replaces: mxfb-pi
+Depends: ${misc:Depends}
+Description: Help files and other documents related to the Raspberry Pi version of mx-fluxbox

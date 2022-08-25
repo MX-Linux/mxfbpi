@@ -1,3 +1,10 @@
+mxfbpi-docs (21.02.17+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Added configs for 2022 release, including for Openbox
+
+ -- Jerry <jb@mx>  Thu, 25 Aug 2022 07:19:40 -0400
+
 mxfbpi-docs (21.02.17) mx; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
